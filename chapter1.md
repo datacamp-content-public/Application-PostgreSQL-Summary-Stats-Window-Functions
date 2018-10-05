@@ -171,3 +171,16 @@ for what is expected.
 # Update this to something more informative.
 Ex().success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
+
+---
+
+## PostgreSQL Summary Stats and Window Functions
+
+```yaml
+type: VideoExercise
+key: 62b9682f11
+xp: 50
+```
+
+`@projector_key`
+e71128e4cf03870ecfca46976f6d47eb
